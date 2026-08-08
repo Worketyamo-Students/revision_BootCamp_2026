@@ -74,6 +74,9 @@ body {
 
 
 @media only screen and (max-width: 870px) {
+    .nav {
+        padding: 2rem;
+    }
     .nav ul {
         display: none;
     }
@@ -81,7 +84,7 @@ body {
     .btn {
         display: none;
     }
-    
+
     .menu {
         display: block;
         width: 5rem;
